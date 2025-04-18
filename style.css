@@ -10,7 +10,7 @@
   cursor: pointer;  
 }
 .face{
-  background-image: url(face.jpg);
+  background-image: url(face.png);
   background-repeat: no-repeat;
   background-size: contain;
   height: 40px;
